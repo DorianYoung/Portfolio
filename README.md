@@ -1,3 +1,4 @@
+<center>
 <h1>DORIAN Y. PORTFOLIO </h1>
 
 ## Table of Contents
@@ -8,6 +9,7 @@
 * [Credits](#credits)
 * [License](#license)
 
+</center>
 
 ## Installation
 
