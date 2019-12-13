@@ -1,6 +1,7 @@
-## Table of Contents (Optional)
+<h1>DORIAN Y. PORTFOLIO </h1>
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
+
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -33,9 +34,6 @@ If you followed tutorials, include links to those here as well.
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
 
 
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
