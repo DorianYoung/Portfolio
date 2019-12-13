@@ -42,7 +42,7 @@ The last section of a good README is a license. This lets other developers know 
 
 
 
-> ## **Badges** :warning:
+> ## Badges :warning:
 
 ![CSS](https://img.shields.io/badge/CSS-50%25-green)
 
