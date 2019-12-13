@@ -12,6 +12,7 @@ https://github.com/DorianYoung
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+* [Badges](#Badges)
 
 
 
