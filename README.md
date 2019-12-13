@@ -8,10 +8,10 @@ https://github.com/DorianYoung
 >  ## **Table of Contents** :notebook:
 
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Credits](#Credits)
+* [License](#License)
 * [Badges](#Badges)
 
 
