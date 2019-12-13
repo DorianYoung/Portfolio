@@ -4,7 +4,8 @@ https://github.com/DorianYoung
 
 <h1>DORIAN Y. PORTFOLIO </h1>
 
-## Table of Contents
+
+>  ## Table of Contents
 
 
 * [Installation](#installation)
@@ -12,7 +13,7 @@ https://github.com/DorianYoung
 * [Credits](#credits)
 * [License](#license)
 
-</center>
+
 
 ## Installation
 
