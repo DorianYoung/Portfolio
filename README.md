@@ -8,25 +8,25 @@ https://github.com/DorianYoung
 >  ## **Table of Contents** :notebook:
 
 
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Credits](#Credits)
-* [License](#License)
+* [Installation](#Installation):wrench:
+* [Usage](#Usage):bulb:
+* [Credits](#Credits):point_up:
+* [License](#License):lock_with_ink_pen:
 * [Badges](#Badges):warning:
 
 
 
-> ## Installation :wrench:
+> ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 
-> ## Usage :bulb:
+> ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed. 
 
 
-> ## Credits :point_up:
+> ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
 
@@ -36,7 +36,7 @@ If you followed tutorials, include links to those here as well.
 
 
 
-> ## License :lock_with_ink_pen:
+> ## License
 
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
 
