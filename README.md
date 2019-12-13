@@ -12,7 +12,7 @@ https://github.com/DorianYoung
 * [Usage](#Usage)
 * [Credits](#Credits)
 * [License](#License)
-* [Badges](#Badges)
+* [Badges](#Badges):warning:
 
 
 
