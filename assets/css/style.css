@@ -4,13 +4,16 @@ body {
     margin: auto;
     border-color: #dddddd;
     width: 960px;
-    background-image: url("https://camo.githubusercontent.com/e10873ea17096b39cb4dbbabca6a55e5195f2827/68747470733a2f2f73636f6e74656e742e66736163312d312e666e612e666263646e2e6e65742f762f7433312e302d382f31323739343834385f31303230343438383436313431313937315f353532313236393935353234393934313134375f6f2e6a70673f5f6e635f6361743d313036265f6e635f6f633d41516b4f7670484745767353516a6e43395431765578766b3567473436396c6f54767461735870355f4159384f49664d544b6b3977363153615175796a6d795971794b6d323967667375334762685f584f353255564b386e265f6e635f68743d73636f6e74656e742e66736163312d312e666e61266f683d3139343637353931663137383135396531636236353430646263336333613431266f653d3545374133303743");
+    background-image: url("https://github.com/DorianYoung/Portfolio/blob/master/assets/images/herringbone.png?raw=true");
+    overflow: hidden;
 }
 
 header {
     background-color: #ffffff;
     border-color: #cccccc;
-    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+    border-bottom-color: #cccccc;
     margin: 0;
     height: 67px;
     width: 100%;
@@ -50,17 +53,30 @@ li a {
 }
 
 #about-me {
+    width: 960px;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    overflow: hidden;
+    margin-top: 20px;
+    text-align: left;
     float: left;
-    width: 100%;
+    
+   
 }
 
 h2 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: #cccccc;
+    padding: 15px;
 }
 
 #bio-image {
     width: 200px;
+    padding: 25px;
+    
 }
 
 p {
