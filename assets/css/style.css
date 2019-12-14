@@ -14,28 +14,27 @@ header {
     margin: 0;
     height: 67px;
     width: 100%;
+    overflow: hidden;
 }
 
 h1 {
     background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
     float: left;
-    padding: 15px;
+    padding: 16px;
     margin: 0;
     text-align: left;
+    overflow: hidden;
 }
-#contact-links {
-    background-color: #ffffff;
-    color: #4aaaa5;
-    width: 960px;
-    float: left;
-}
+
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    float: right;
 }
 
 li {
@@ -50,13 +49,22 @@ li a {
     padding: 10px 10px;
 }
 
-h2 {
-    color: #4aaaa5;
-}
-
 #about-me {
     float: left;
     width: 100%;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#bio-image {
+    width: 200px;
+}
+
+p {
+
 }
 
 #contact {
