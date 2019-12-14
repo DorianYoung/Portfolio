@@ -52,16 +52,23 @@ li a {
     padding: 10px 10px;
 }
 
-#about-me {
-    width: 960px;
+.container {
+    width: 100%;
     background-color: #ffffff;
     border-color: #dddddd;
-    overflow: hidden;
-    margin-top: 20px;
-    text-align: left;
+    border-style: solid;
     float: left;
-    
-   
+    border-width: thin;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+
+#about-me {
+    padding: 15px;
+    overflow: hidden;
+    text-align: left; 
+    float: left;
 }
 
 h2 {
@@ -70,28 +77,34 @@ h2 {
     border-bottom-style: solid;
     border-bottom-width: thin;
     border-bottom-color: #cccccc;
-    padding: 15px;
+    
 }
 
 #bio-image {
     width: 200px;
-    padding: 25px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 25px
+    
     
 }
 
 p {
-add border on top of paragraph
+    
+
 }
 
 #contact {
-    float: left;
-    width: 100%;
+    padding: 15px;
+    overflow: hidden;
+    text-align: left;
+    
 }
 
 #portfolio {
-    float: left;
-    width: 100%;
-
+    padding: 15px;
+    overflow: hidden;
+    text-align: left;     
 }
 
 
