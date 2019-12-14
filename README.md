@@ -48,5 +48,5 @@ The last section of a good README is a license. This lets other developers know 
 
 ![Javascript](https://img.shields.io/badge/Javascript-50%25-green)
 
-![Test](https://img.shields.io/badge/Test-100%25-blue)
+![Dorian](https://img.shields.io/badge/Dorian-100%25-blue)
 
