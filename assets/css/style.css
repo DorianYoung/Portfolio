@@ -1,9 +1,48 @@
-Style Guide
+body {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4aaaa5;
+    border-color: #dddddd;
+    color: #ffffff;
+    margin: auto;
+}
+
+h1 {
+
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+#about-me {
+    width: 960px;
+    margin: auto;
+}
+
+#contact {
+
+}
+
+#portfolio {
+
+}
+
+
+
+
+
+
 
 
 Colors (Pro Tip: Use the Eye Dropper Chrome extension to find the colors that are used on webpages.)
 
-Teal color (used for headings and backgrounds): #4aaaa5
+!!Teal color (used for headings and backgrounds): #4aaaa5
 
 Regular font color (used for paragraphs and all text besides the headings): #777777
 
@@ -11,9 +50,9 @@ Main header background color: #ffffff
 
 Main header border color: #cccccc
 
-Footer background color: #666666
+!!Footer background color: #666666
 
-Main content background color: #ffffff
+!!Main content background color: #ffffff
 
 Main content border color: #dddddd
 
@@ -24,7 +63,7 @@ Fonts:
 
 For heading fonts use font-family: 'Georgia', Times, 'Times New Roman', serif;
 
-For all other fonts use 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+!!For all other fonts use 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 
 
