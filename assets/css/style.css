@@ -3,7 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
     border-color: #dddddd;
-    width: 960px;
+    width: auto;
     background-image: url("https://github.com/DorianYoung/Portfolio/blob/master/assets/images/herringbone.png?raw=true");
     overflow: hidden;
 }
@@ -16,8 +16,8 @@ header {
     border-bottom-color: #cccccc;
     margin-bottom: 20px;
     height: 67px;
-    width: 960px;
-    overflow: hidden;
+    width: auto;
+    overflow: hidden; 
 }
 
 h1 {
@@ -26,9 +26,11 @@ h1 {
     color: #ffffff;
     float: left;
     padding: 16px;
-    margin: 0;
+    margin-left: 123px;
+    margin-top: 0px;
     text-align: left;
     overflow: hidden;
+    position: relative;
 }
 
 
@@ -38,6 +40,8 @@ ul {
     padding: 0;
     overflow: hidden;
     float: right;
+    position: absolute;
+    right: 120px;
 }
 
 li {
@@ -61,6 +65,11 @@ li a {
     border-width: thin;
     margin-top: 20px;
     overflow: hidden;
+    position: absolute;
+    width: 960px;
+    height: auto;
+    top: auto;
+    right: 120px;
 }
 
 
@@ -112,7 +121,7 @@ footer {
     border-top-color: #4aaaa5;
     margin: 0;
     height: 67px;
-    width: 960px;
+    width: 100%;
     position: fixed;
     left: auto;
     bottom: 0;
@@ -122,58 +131,3 @@ footer {
 }
 
 
-
-
-
-
-
-
-Colors (Pro Tip: Use the Eye Dropper Chrome extension to find the colors that are used on webpages.)
-
-!!Teal color (used for headings and backgrounds): #4aaaa5
-
-Regular font color (used for paragraphs and all text besides the headings): #777777
-
-Main header background color: #ffffff
-
-Main header border color: #cccccc
-
-!!Footer background color: #666666
-
-!!Main content background color: #ffffff
-
-Main content border color: #dddddd
-
-
-
-
-Fonts:
-
-For heading fonts use font-family: 'Georgia', Times, 'Times New Roman', serif;
-
-!!For all other fonts use 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-
-
-
-
-Profile image in index.html:
-
-Use a picture of yourself.
-
-
-
-Portfolio images:
-
-Save the images to your images folder.
-
-
-
-Background images:
-
-The background pattern used was found on Subtle Patterns. You can browse through that site and use whichever pattern you like.
-
-
-
-Dimensions:
-
-The entire content and the main section content area is 960px wide.
