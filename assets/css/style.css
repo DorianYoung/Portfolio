@@ -149,9 +149,29 @@ footer {
 }
 
 
-input[type="text"], input[type="password"], input[type="email"], select,textarea {
+input[type="text"], input[type="password"], input[type="email"] {
     width: 99%;
     overflow: hidden;
 }
+
+textarea {
+    width: 99%;
+    height: 175px;
+    overflow: hidden;
+}
+
+input[type=submit] {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    padding: 9px 27px 9px 27px;
+    position: absolute;
+    left: 16px;
+    bottom: 15px;
+    overflow: hidden;
+}
+
+
+
 
 

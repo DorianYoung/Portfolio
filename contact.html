@@ -23,35 +23,21 @@
 
         <section id="contact">
             <h2>Contact</h2>
-            Name
-            <form method='post' name='content'><input type='hidden' name='form-name' value='content' />
-                <div class="row">
-                    <div class="col-6 col-12-mobilep">
-                        <input type="text" name="name" placeholder="John Smith" />
-                </div>
             <br>
-            Email
-            <div class="col-6 col-12-mobilep">
-                <input type="email" name="email" placeholder="example@gmail.com" />
-            </div>
-            <br>
-            Message
-            <div class="col-12">
-                <textarea name="message" placeholder="" rows="6"></textarea>
-            </div>
-            <div class="col-12">
-                <ul class="actions special">
-                    <li><input type="submit" value="Send Message" /></li>
-                </ul>
-            </div>
-
-            
-                    
-                    
-                    
-                </div>
-            </form>
-
+            <form action="/action_page.php">
+                Name<br>
+                <input type="text" name="name" value="John Smith">
+                <br>
+                Email<br>
+                <input type="email" name="email" value="example@gmail.com">
+                <br>
+                Message<br>
+                <form action="/action_page.php">
+                    <textarea name="message"></textarea>
+                </form>
+                <br><br>
+                <input type="submit" value="Submit">
+              </form> 
         </section>
 
 
