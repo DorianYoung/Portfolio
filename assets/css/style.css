@@ -81,7 +81,6 @@ a:link {
     float: left;
     border-width: thin;
     margin-top: 20px;
-    overflow: hidden;
     position: absolute;
     width: 960px;
     height: auto;
@@ -133,15 +132,13 @@ p {
 
 footer {
     background-color: #666666;
-    border-color: #cccccc;
     border-top-style: solid;
     border-top-width: 8px;
     border-top-color: #4aaaa5;
-    margin: 0;
-    height: 67px;
+    height: 65px;
     width: 100%;
     position: fixed;
-    left: auto;
+    left: 0;
     bottom: 0;
     overflow: hidden;
     text-align: center;
@@ -157,7 +154,7 @@ input[type="text"], input[type="password"], input[type="email"] {
 textarea {
     width: 99%;
     height: 175px;
-    overflow: hidden;
+    
 }
 
 input[type=submit] {
