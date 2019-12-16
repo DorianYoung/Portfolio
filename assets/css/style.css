@@ -182,13 +182,15 @@ footer {
 input[type="text"], input[type="email"] {
     width: 99%;
     overflow: hidden;
+    color: #777777;
 }
 
 /* Message Form */
 
 textarea {
     width: 99%;
-    height: 175px;   
+    height: 175px;
+    color: #777777;   
 }
 
 /* Submit Button */
