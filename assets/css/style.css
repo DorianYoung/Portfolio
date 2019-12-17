@@ -34,7 +34,7 @@ h1 {
     float: left;
     padding: 16px;
     position: absolute;
-    left: 123px;
+    left: 25%;
     margin-top: 0px;
     text-align: left;
     overflow: hidden;
@@ -50,13 +50,15 @@ ul {
     overflow: hidden;
     float: right;
     position: absolute;
-    right: 120px;
+    right: 25%;
+    top: 4%;
 }
 
 /* Navigation bar list items */
 
 li {
     float: right;
+    
 }
 
 /* Navigation bar links */
@@ -67,6 +69,7 @@ li a {
     display: inline-block;
     text-align: center;
     padding: 10px 10px;
+    
 }
 
 /* Navigation bar links text decoration */
@@ -96,18 +99,15 @@ a:active {
 /* Main content container */
 
 .container {
-    width: 100%;
+    width: 50%;
     background-color: #ffffff;
     border-color: #dddddd;
     border-style: solid;
-    float: left;
     border-width: thin;
     margin-top: 20px;
-    position: absolute;
-    width: 960px;
-    height: 418px;
     top: auto;
-    right: 120px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Navigation bar links text decoration */
@@ -123,10 +123,10 @@ h2 {
 /* About me section */
 
 #about-me {
+    width: 90%;
     padding: 15px;
     overflow: scroll;
     text-align: left; 
-    float: left;
 }
 
 /* Bio Image */
