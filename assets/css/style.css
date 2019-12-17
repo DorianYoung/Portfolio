@@ -206,24 +206,26 @@ input[type=submit] {
     overflow: hidden;
 }
 
-
 #p1 {
     position: fixed;
-    top: 195px;
-    left: 140px;
+    top: 30%;
+    left: 26%;
     width: 200px;
     height: 40px;
     margin: 0;
     text-align: center;
     background: #4aaaa5;
     color: #ffffff;
+    z-index: 100;
 }
 
 
 #basketball {
     width: 200px;
     height: 150px;
-    float: left;
+    position: fixed;
+    left: 26%;
+    top: 26%
 }
 
 #p2 {
@@ -242,7 +244,10 @@ input[type=submit] {
 #camera {
     width: 200px;
     height: 150px;
-    float: left;
+    position: fixed;
+    left: 44%;
+    top: 26%
+
 }
 
 #p3 {
@@ -261,7 +266,9 @@ input[type=submit] {
 #jay-z {
     width: 200px;
     height: 150px;
-    float: left;
+    position: fixed;
+    left: 26%;
+    top: 52%
 }
 
 #p4 {
@@ -280,13 +287,15 @@ input[type=submit] {
 #nike {
     width: 200px;
     height: 150px;
-    float: left;
+    position: fixed;
+    left: 44%;
+    top: 52%
 }
 
 #p5 {
     position: fixed;
-    top: 370px;
-    left: 375px;
+    top: 81%;
+    left: 26%;
     width: 200px;
     height: 40px;
     margin: 0;
@@ -299,6 +308,8 @@ input[type=submit] {
 #goldendoodle {
     width: 200px;
     height: 150px;
-    float: left;
+    position: fixed;
+    left: 26%;
+    top: 78%
 }
 
