@@ -1,4 +1,12 @@
 
+
+
+
+
+
+
+
+
 /* HTML and Body of page*/
 
 body, html {
@@ -201,115 +209,38 @@ input[type=submit] {
     color: #ffffff;
     padding: 9px 27px 9px 27px;
     position: absolute;
-    left: 16px;
-    bottom: 7px;
-    overflow: hidden;
+    left: 26.3%;
+    bottom: 20%;
+    
 }
 
-#p1 {
-    position: fixed;
-    top: 30%;
-    left: 26%;
-    width: 200px;
-    height: 40px;
-    margin: 0;
-    text-align: center;
+/* Portfolio Projects */
+
+.project{
+    position: relative;
+    float: left;
+    width: 30%;
+    background-color: #fff;
+    margin: 10px;
+}
+
+.banner{
+    position: absolute;
     background: #4aaaa5;
     color: #ffffff;
-    z-index: 100;
-}
-
-
-#basketball {
-    width: 200px;
-    height: 150px;
-    position: fixed;
-    left: 26%;
-    top: 26%
-}
-
-#p2 {
-    position: fixed;
-    top: 195px;
-    left: 375px;
-    width: 200px;
-    height: 40px;
-    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
     text-align: center;
-    background: #4aaaa5;
-    color: #ffffff;
-}
-
-
-#camera {
-    width: 200px;
-    height: 150px;
-    position: fixed;
-    left: 44%;
-    top: 26%
-
-}
-
-#p3 {
-    position: fixed;
-    top: 195px;
-    right: 393px;
-    width: 200px;
+    vertical-align: middle;
+    line-height: 40px;
+    width: 100%;
     height: 40px;
-    margin: 0;
-    text-align: center;
-    background: #4aaaa5;
-    color: #ffffff;
+    z-index: 1000;
+    bottom:     9px;
 }
 
-
-#jay-z {
-    width: 200px;
-    height: 150px;
-    position: fixed;
-    left: 26%;
-    top: 52%
+.image {
+    width: 100%;
+    height: 90px;;
+    
 }
-
-#p4 {
-    position: fixed;
-    top: 370px;
-    left: 140px;
-    width: 200px;
-    height: 40px;
-    margin: 0;
-    text-align: center;
-    background: #4aaaa5;
-    color: #ffffff;
-}
-
-
-#nike {
-    width: 200px;
-    height: 150px;
-    position: fixed;
-    left: 44%;
-    top: 52%
-}
-
-#p5 {
-    position: fixed;
-    top: 81%;
-    left: 26%;
-    width: 200px;
-    height: 40px;
-    margin: 0;
-    text-align: center;
-    background: #4aaaa5;
-    color: #ffffff;
-}
-
-
-#goldendoodle {
-    width: 200px;
-    height: 150px;
-    position: fixed;
-    left: 26%;
-    top: 78%
-}
-
